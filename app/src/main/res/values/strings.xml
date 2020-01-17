@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FormularioDeRegistro</string>
+    <string name="digite_el_nombre">Digite el nombre</string>
+    <string name="correo_electronico">Digite el correo electrónico</string>
+    <string name="digite_el_telefono">Digite el teléfono</string>
+    <string name="password">Digite una contraseña (min 6 digitos)</string>
+    <string name="repassword">Repita la contraseña</string>
+    <string name="genero">Género:</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="hobbies">Hobbies:</string>
+    <string name="cine">Cine</string>
+    <string name="gimnasio">Gimnasio</string>
+    <string name="leer">Leer</string>
+    <string name="series">Series</string>
+    <string name="fecha_de_nacimiento">Seleccione su fecha de nacimiento</string>
+    <string name="lugar_nacimiento">Elija su lugar de nacimiento</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="resultado">Resultado:</string>
+    <string name="msg_error_campos_vacios">Debe rellenar todos los campos</string>
+    <string name="contrasenasdiferentes">Las contraseñas no coinciden</string>
+</resources>
